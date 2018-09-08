@@ -9,12 +9,12 @@ A workshop for learning how to develop apps
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-file:///C:/Users/jorda/Downloads/2hhcsm.gif
+![jordantest_app](https://user-images.githubusercontent.com/42582477/45251176-99648200-b2f6-11e8-8439-e72cfc44becd.gif)
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
-- [ ] 1. User sees custom text in a label - Hello from {name}!
+- [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
 - [x] 3. User can tap a button to change the text color of the label.
 
