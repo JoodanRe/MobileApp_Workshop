@@ -9,7 +9,7 @@ A workshop for learning how to develop apps
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="file:///C:/Users/jorda/Desktop/JordanTest_App.gif" width=200><br>
+<img src="https://mail.google.com/mail/u/1?ui=2&ik=866188eb1e&attid=0.1&permmsgid=msg-a:r1437694938861817722&th=165b7620aa9e3a13&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ98WBl_Bn-HHViMiGRGGWlrkDgh2MRAhtYd3JMUCYPshwamjEvieAyDWLaFiI0QFHHgExUUw2VcHMVb8siXKpkglFGLPW4YRU3Xr0zvQetM5485CIHSW3edVlM&disp=emb&realattid=ii_jlsspyqp0.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
