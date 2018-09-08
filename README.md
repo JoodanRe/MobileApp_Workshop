@@ -4,7 +4,7 @@ A workshop for learning how to develop apps
 ## JordanTest
 
 ### App Description
-This mobile app can allow the user to change the text color, the backdrop color, and the text message.
+This mobile app can allow the user to change the text color, the backdrop color, and the text message.  You are able to type in commands in the text box and tap on either "change text color" button or "change backdrop color" button to change the color of the text or background.  You are able to type in whatever you want(as long as it's not too long) in the text box and tap on the "change text message" button in order to change the resulted text.
 
 ### App Walk-though
 
